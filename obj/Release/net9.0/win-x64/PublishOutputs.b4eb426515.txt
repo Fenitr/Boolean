@@ -1,0 +1,2 @@
+D:\table de vérité\TruthTableGenerator\bin\Release\net9.0\win-x64\publish\TruthTableGenerator.pdb
+D:\table de vérité\TruthTableGenerator\bin\Release\net9.0\win-x64\publish\TruthTableGenerator.exe

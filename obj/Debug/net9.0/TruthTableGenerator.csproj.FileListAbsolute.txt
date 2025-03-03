@@ -1,0 +1,17 @@
+D:\table de vérité\TruthTableGenerator\bin\Debug\net9.0\TruthTableGenerator.exe
+D:\table de vérité\TruthTableGenerator\bin\Debug\net9.0\TruthTableGenerator.deps.json
+D:\table de vérité\TruthTableGenerator\bin\Debug\net9.0\TruthTableGenerator.runtimeconfig.json
+D:\table de vérité\TruthTableGenerator\bin\Debug\net9.0\TruthTableGenerator.dll
+D:\table de vérité\TruthTableGenerator\bin\Debug\net9.0\TruthTableGenerator.pdb
+D:\table de vérité\TruthTableGenerator\bin\Debug\net9.0\NCalc.dll
+D:\table de vérité\TruthTableGenerator\obj\Debug\net9.0\TruthTableGenerator.csproj.AssemblyReference.cache
+D:\table de vérité\TruthTableGenerator\obj\Debug\net9.0\TruthTableGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\table de vérité\TruthTableGenerator\obj\Debug\net9.0\TruthTableGenerator.AssemblyInfoInputs.cache
+D:\table de vérité\TruthTableGenerator\obj\Debug\net9.0\TruthTableGenerator.AssemblyInfo.cs
+D:\table de vérité\TruthTableGenerator\obj\Debug\net9.0\TruthTableGenerator.csproj.CoreCompileInputs.cache
+D:\table de vérité\TruthTableGenerator\obj\Debug\net9.0\TruthTab.EF5B1588.Up2Date
+D:\table de vérité\TruthTableGenerator\obj\Debug\net9.0\TruthTableGenerator.dll
+D:\table de vérité\TruthTableGenerator\obj\Debug\net9.0\refint\TruthTableGenerator.dll
+D:\table de vérité\TruthTableGenerator\obj\Debug\net9.0\TruthTableGenerator.pdb
+D:\table de vérité\TruthTableGenerator\obj\Debug\net9.0\TruthTableGenerator.genruntimeconfig.cache
+D:\table de vérité\TruthTableGenerator\obj\Debug\net9.0\ref\TruthTableGenerator.dll
