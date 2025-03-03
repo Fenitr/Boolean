@@ -42,33 +42,13 @@ Téléchargez la version correspondant à votre système d'exploitation :
 
     Assurez-vous que le chemin pointe vers le fichier téléchargé.
 
-4. Pour pouvoir utiliser la commande `truth-table` partout dans le terminal, créez un alias ou un script :
-   - Créez un fichier exécutable dans `/usr/local/bin/` :
+4. Utilisation :
+
 
      ```sh
-     sudo nano /usr/local/bin/truth-table
+     TruthTableGenerator  "(a -> ~b) == (b | a)"
      ```
 
-   - Ajoutez le contenu suivant (en remplaçant `/path/to/TruthTableGenerator` par le chemin réel) :
-
-     ```sh
-     #!/bin/bash
-     /path/to/TruthTableGenerator "$@"
-     ```
-
-   - Rendez-le exécutable :
-
-     ```sh
-     sudo chmod +x /usr/local/bin/truth-table
-     ```
-
-5. Vous pouvez maintenant utiliser la commande `truth-table` dans le terminal :
-
-    ```sh
-    truth-table "(a -> ~b) == (b | a)"
-    ```
-
----
 
 ## 🍏 Installation sur **macOS**
 
@@ -80,29 +60,8 @@ Téléchargez la version correspondant à votre système d'exploitation :
     sudo chmod +x /path/to/TruthTableGenerator
     ```
 
-4. Créez un alias pour l'exécution de la commande en ajoutant cette ligne à votre fichier `~/.bash_profile` ou `~/.zshrc` :
+4. Utilisation:
 
     ```sh
-    alias truth-table="/path/to/TruthTableGenerator"
+   TruthTableGenerator  "(a -> ~b) == (b | a)"
     ```
-
-5. Rechargez votre profil :
-
-    ```sh
-    source ~/.bash_profile  # ou source ~/.zshrc
-    ```
-
-6. Vous pouvez maintenant utiliser la commande `truth-table` dans le terminal :
-
-    ```sh
-    truth-table "(a -> ~b) == (b | a)"
-    ```
-
----
-
-## 🎮 Utilisation
-
-Après l'installation, vous pouvez générer une table de vérité en exécutant la commande suivante dans le terminal ou l'invite de commandes :
-
-```sh
-truth-table "(a -> ~b) == (b | a)"
