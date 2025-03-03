@@ -15,11 +15,17 @@ Téléchargez la version correspondant à votre système d'exploitation :
 ## 💻 Installation sur **Windows**
 
 1. Téléchargez le fichier `TruthTableGenerator.exe` pour **Windows**.
-2. Placez le fichier dans un dossier comme `C:\Tools\` (ou un autre répertoire de votre choix).
-3. Ouvrez l'invite de commandes (`cmd`) et exécutez la commande suivante pour tester :
+2. Créer un nfichier `TruthTableGenerator.bat` dans le même dossier et ajouter
+    ```sh
+       @echo off
+        "C:\Tools\TruthTableGenerator\TruthTableGenerator.exe" %*
+    ```
+4. Placez le fichier dans un dossier comme `C:\Tools\` (ou un autre répertoire de votre choix).
+5. Ajouter ces derniers dans la variable de développement de votre PC
+6. Ouvrez l'invite de commandes (`cmd`) et exécutez la commande suivante pour tester :
 
     ```sh
-    C:\Tools\TruthTableGenerator\TruthTableGenerator.exe "(a -> ~b) == (b | a)"
+    truth-table "(a -> ~b) == (b | a)"
     ```
 
 ---
