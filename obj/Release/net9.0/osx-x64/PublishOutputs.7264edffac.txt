@@ -1,0 +1,2 @@
+D:\table de vérité\TruthTableGenerator\dist\macos\TruthTableGenerator.pdb
+D:\table de vérité\TruthTableGenerator\dist\macos\TruthTableGenerator

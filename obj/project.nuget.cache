@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "F4OHNuLB2rE=",
+  "dgSpecHash": "QhMXTp6F2N4=",
   "success": true,
   "projectFilePath": "D:\\table de vérité\\TruthTableGenerator\\TruthTableGenerator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fenit\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.2\\microsoft.net.illink.tasks.9.0.2.nupkg.sha512",
     "C:\\Users\\fenit\\.nuget\\packages\\ncalc\\1.3.8\\ncalc.1.3.8.nupkg.sha512",
-    "C:\\Users\\fenit\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.2\\microsoft.netcore.app.runtime.win-x64.9.0.2.nupkg.sha512",
-    "C:\\Users\\fenit\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.2.nupkg.sha512",
-    "C:\\Users\\fenit\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.2\\microsoft.aspnetcore.app.runtime.win-x64.9.0.2.nupkg.sha512"
+    "C:\\Users\\fenit\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\9.0.2\\microsoft.netcore.app.runtime.osx-x64.9.0.2.nupkg.sha512",
+    "C:\\Users\\fenit\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\9.0.2\\microsoft.aspnetcore.app.runtime.osx-x64.9.0.2.nupkg.sha512",
+    "C:\\Users\\fenit\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\9.0.2\\microsoft.netcore.app.host.osx-x64.9.0.2.nupkg.sha512"
   ],
   "logs": [
     {
